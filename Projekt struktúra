@@ -1,0 +1,7 @@
+AutosCuccok/
+│
+├─ index.html
+├─ src/
+│   ├─ app.js
+│   └─ style.css
+└─ public/    <-- ide kerülnek később a képek, logók stb.
